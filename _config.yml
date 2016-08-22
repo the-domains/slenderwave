@@ -6,9 +6,9 @@ color:
   saturation: 0.7649536915123463
   rhythmicContrast: 0.24032284086570144
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FFFFFF'
+    - '#FFE5FF'
+    - '#6A347F'
+    - '#EEC0EF'
+    - '#9500BA'
 name: SlenderWave
