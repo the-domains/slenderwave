@@ -1,0 +1,14 @@
+layout_spectrum: 0.4534409740008414
+typography_spectrum: 0.544288482517004
+color:
+  brandStrength: 0.5112891872413456
+  lightness: 0.4604409756138921
+  saturation: 0.7649536915123463
+  rhythmicContrast: 0.24032284086570144
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: SlenderWave
